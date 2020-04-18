@@ -57,7 +57,7 @@ const data = [{
 ,
 {
       pos:6,
-      name:'FilHaal-Female Version',
+      name:'FilHall-Female Version',
       cover:'seventh.jpg',
       blur:'blur7.png',
       artist:'Nupur Sanon',
